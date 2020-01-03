@@ -4,6 +4,7 @@
 
 This application features the ability to display colorful bubbles which float upward.
 
+![index](https://user-images.githubusercontent.com/6654513/71702184-3ae4d200-2d8b-11ea-95f5-f2c7d1dd5488.png)
 ![][image_screenshot]
 
 ## Application Compiling
